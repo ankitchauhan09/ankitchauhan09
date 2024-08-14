@@ -18,9 +18,6 @@ Welcome to my GitHub profile! I'm an enthusiastic and dedicated Android Develope
 - **Retrofit**: API calls.
 - **PhonePe Payment Gateway**: Seamless payment integration.
 
-📂 **[Source Code](https://lnkd.in/ddySYJeF)**
-📦 **[APK](https://lnkd.in/d3B2xDU8)**
-
 ### CampusHub
 CampusHub aims to streamline the academic journey for college students.
 - **Role-Based Login**: Tailored experiences for teachers and students.
@@ -68,7 +65,7 @@ CampusHub aims to streamline the academic journey for college students.
 
 ## 📫 Contact
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ankit-chauhan09) or check out my [GitHub](https://github.com/ankitchauhan09).
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ankit-chauhan0906) or check out my [GitHub](https://github.com/ankitchauhan09).
 
 ---
 
@@ -80,7 +77,7 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ankit-cha
 
 ## 💬 Let's Connect!
 
-- **LinkedIn**: [Ankit Chauhan](https://www.linkedin.com/in/ankit-chauhan09)
+- **LinkedIn**: [Ankit Chauhan](https://www.linkedin.com/in/ankit-chauhan0906)
 - **GitHub**: [GitHub Profile](https://github.com/ankitchauhan09)
 - **X(Twitter)**: [@yourtwitterhandle](https://x.com/Ankit09Chauhan)
 
