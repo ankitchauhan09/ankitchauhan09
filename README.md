@@ -25,6 +25,7 @@ CampusHub aims to streamline the academic journey for college students.
 - **Live Classes**: Real-time learning with minimal latency using Agora's SDK.
 - **Profile Management**: Edit and update profile details effortlessly.
 - **Intuitive Navigation**: User-friendly features for enhanced app experience.
+- **Google Drive API**: Google-Drive API for handeling large file storage
 
 ---
 
