@@ -8,6 +8,16 @@ Welcome to my GitHub profile! I'm a passionate and dedicated Android Developer a
 
 ## 🔭 Current Projects
 
+### Collaborative Online Code Editor
+
+I'm excited to share that I've created my own **online code editor** with features like:
+
+- **Monaco Editor:** A powerful, fast, and flexible code editor.
+- **Backend:** Built using **Spring Boot** to handle the business logic and API.
+- **Docker Integration:** Using Docker for creating separate images for each programming language to compile and run them independently.
+
+My next goal is to add **collaborative coding** functionality to this platform, allowing multiple users to work on the same code simultaneously in real-time.
+
 ### Jobly - Redefining Job and Internship Hunting
 
 I'm excited to share **Jobly**, a comprehensive platform designed to empower users in their career journeys with advanced features and a seamless user experience.
